@@ -1,2 +1,3 @@
-Git is a aversion control system.
-Git is free software
+Git is a distributed version control system.
+Git is free software distributed under the GFL
+Git has mutable index called stage
